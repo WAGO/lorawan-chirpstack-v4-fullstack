@@ -13,11 +13,7 @@
      alt="LoRaWan"
      title="LoRaWan"/>
 </p>
-<div align="center">
-  <img src="images/LoRaWan Stack.jpg"
-       alt="LoRaWan"
-       title="LoRaWan"/>
-</div>
+
 This Container setup the whole Chirpstack with the needed LoRaWan packet forwarder for Advantech Card with Semtech Chip.
 All Settings will be done within the Rollout-Engine inside the Rollout Container.
 
@@ -31,8 +27,8 @@ All Settings will be done within the Rollout-Engine inside the Rollout Container
 -e GATEWAY_ID="AA555A0000240xxx" \
 wagoautomation/chirpstack-rollout-v4:1.0.5
 ```
-If the Rollout Container has finished you find the UI at: <http://IP-EDGE:8080>
-You also will find preinstalled sensor devices inside
+If the Rollout Container has finished you find the UI at: <http://IP-EDGE:8080><br>
+You also will find preinstalled sensor devices inside.<br>
 
 
 
