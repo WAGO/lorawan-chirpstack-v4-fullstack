@@ -33,7 +33,7 @@ Password: admin<br>
 You also will find preinstalled sensor devices inside.<br>
 
 ### Seeting UP the stack via Portainer
-- Login to Portainer => https://IP_EDGE:9443
+- Login to Portainer => https://IP-EDGE:9443
 - Create a new stack
 - Paste the code inside the editor window of the stack
 - Deploy the stack via "Deploy" button
