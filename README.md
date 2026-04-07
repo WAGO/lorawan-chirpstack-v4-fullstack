@@ -28,6 +28,8 @@ All Settings will be done within the Rollout-Engine inside the Rollout Container
 wagoautomation/chirpstack-rollout-v4:1.0.5
 ```
 If the Rollout Container has finished you find the UI at: <http://IP-EDGE:8080><br>
+User: admin<br>
+Password: admin<br>
 You also will find preinstalled sensor devices inside.<br>
 
 
