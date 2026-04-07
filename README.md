@@ -90,6 +90,7 @@ After logging into the UI, simply add your **Gateway** using your configured Gat
 <p align="center">
   <img src="images/ChirpStack.jpg" alt="ChirpStack" title="ChirpStack"/>
 </p>
+<br>
 ---
 
 ## 💡 Notes
