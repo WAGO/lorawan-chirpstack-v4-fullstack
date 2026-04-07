@@ -13,11 +13,7 @@
      alt="LoRaWan"
      title="LoRaWan"/>
 </p>
-<div align="center">
-  <img src="images/LoRaWan Stack.jpg"
-       alt="LoRaWan"
-       title="LoRaWan"/>
-</div>
+
 This Container setup the whole Chirpstack with the needed LoRaWan packet forwarder for Advantech Card with Semtech Chip.
 All Settings will be done within the Rollout-Engine inside the Rollout Container.
 
@@ -31,9 +27,32 @@ All Settings will be done within the Rollout-Engine inside the Rollout Container
 -e GATEWAY_ID="AA555A0000240xxx" \
 wagoautomation/chirpstack-rollout-v4:1.0.5
 ```
-If the Rollout Container has finished you find the UI at: <http://IP-EDGE:8080>
-You also will find preinstalled sensor devices inside
+If the Rollout Container has finished you find the UI at: <http://IP-EDGE:8080><br>
+User: admin<br>
+Password: admin<br>
+You also will find preinstalled sensor devices inside.<br>
 
+### Seeting UP the stack via Portainer
+- Login to Portainer => https://IP-EDGE:9443
+- Create a new stack
+- Paste the code inside the editor window of the stack
+- Deploy the stack via "Deploy" button
+```yaml
+version: "3.8"
+
+services:
+  rollout:
+    image: wagoautomation/chirpstack-rollout-v4:1.0.5
+    container_name: rollout
+    stdin_open: true
+    tty: true
+    volumes:
+      - /root:/root
+    environment:
+      - GATEWAY_ID=AA555A0000240xxx
+    restart: "no"
+```
+After Login in to th UI simple add a Gateway with your ID.
 
 
 
