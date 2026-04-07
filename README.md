@@ -39,19 +39,6 @@ You also will find preinstalled sensor devices inside.<br>
 - Deploy the stack via "Deploy" button
 <br>
 ```yaml
-version: "3.8"
-
-services:
-  rollout:
-    image: wagoautomation/chirpstack-rollout-v4:1.0.5
-    container_name: rollout
-    stdin_open: true
-    tty: true
-    volumes:
-      - /root:/root
-    environment:
-      - GATEWAY_ID=AA555A0000240xxx
-    restart: "no"
 ```
 version: "3.8"
 
