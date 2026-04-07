@@ -39,7 +39,6 @@ You also will find preinstalled sensor devices inside.<br>
 - Deploy the stack via "Deploy" button
 <br>
 ```yaml
-```
 version: "3.8"
 
 services:
@@ -53,5 +52,7 @@ services:
     environment:
       - GATEWAY_ID=AA555A0000240xxx
     restart: "no"
+```
+aa
 
 
