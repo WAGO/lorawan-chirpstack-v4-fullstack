@@ -52,6 +52,7 @@ services:
       - GATEWAY_ID=AA555A0000240xxx
     restart: "no"
 ```
-aa
+After Login in to th UI simple add a Gateway with your ID.
+
 
 
