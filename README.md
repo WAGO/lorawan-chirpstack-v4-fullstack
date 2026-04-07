@@ -8,7 +8,7 @@
 - Edge PC connection to the internet to download the needed stuff
 - SSH Connection or use the Portainer instance on the Edge PC
 <br>
-<p align="center">
+<p align="center" style="margin:0;">
 <img src="images/LoRaWan Stack.jpg"
      alt="LoRaWan"
      title="LoRaWan"/>
