@@ -32,6 +32,26 @@ User: admin<br>
 Password: admin<br>
 You also will find preinstalled sensor devices inside.<br>
 
+### Seeting UP the stack via Portainer
+- Login to Portainer => https://IP_EDGE:9443
+- Create a new stack
+- Paste the code inside the editor window of the stack
+- Deploy the stack via "Deploy" button
+<br>
+```bash
+version: "3.8"
 
+services:
+  rollout:
+    image: wagoautomation/chirpstack-rollout-v4:1.0.5
+    container_name: rollout
+    stdin_open: true
+    tty: true
+    volumes:
+      - /root:/root
+    environment:
+      - GATEWAY_ID=AA555A0000240xxx
+    restart: "no"
+```
 
 
