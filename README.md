@@ -7,15 +7,13 @@
 - Actual OS from Wago on your Edge Device => Download here: https://downloadcenter.wago.com/wago/software/details/mfgikzq7c3ra4l9ejo
 - Edge PC connection to the internet to download the needed stuff
 - SSH Connection or use the Portainer instance on the Edge PC
-
-
+<br>
 <p align="center">
 <img src="images/LoRaWan Stack.jpg"
      alt="LoRaWan"
      title="LoRaWan"/>
 </p>
-
-
+<br>
 This Container setup the whole Chirpstack with the needed LoRaWan packet forwarder for Advantech Card with Semtech Chip.
 All Settings will be done within the Rollout-Engine inside the Rollout Container.
 
