@@ -8,6 +8,14 @@
 - Edge PC connection to the internet to download the needed stuff
 - SSH Connection or use the Portainer instance on the Edge PC
 
+
+<p align="center">
+<img src="images/.LoRaWan Stackjpeg"
+     alt="LoRaWan"
+     title="LoRaWan"/>
+</p>
+
+
 This Container setup the whole Chirpstack with the needed LoRaWan packet forwarder for Advantech Card with Semtech Chip.
 All Settings will be done within the Rollout-Engine inside the Rollout Container.
 
