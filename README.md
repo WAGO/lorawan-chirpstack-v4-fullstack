@@ -53,6 +53,11 @@ services:
     restart: "no"
 ```
 After Login in to th UI simple add a Gateway with your ID.
-
+<br>
+<p align="center" style="margin:0;">
+<img src="images/ChirpStack.jpg"
+     alt="ChirpStack"
+     title="ChirpStack"/>
+</p>
 
 
