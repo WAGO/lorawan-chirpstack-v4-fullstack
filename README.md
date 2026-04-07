@@ -1,4 +1,4 @@
-# LoRa-Packet-Forwarder for WAGO Edge Computer 752-94xx with full stack implemantation of Chirpstack V4
+# LoRa-Packet-Forwarder for WAGO Edge Computer 752-94xx with full stack implementation of Chirpstack V4
 
 ## Prerequisites
 - Wago Edge Computer 752-94xx
