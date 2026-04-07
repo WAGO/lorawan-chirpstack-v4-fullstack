@@ -13,7 +13,6 @@
      alt="LoRaWan"
      title="LoRaWan"/>
 </p>
-<br>
 This Container setup the whole Chirpstack with the needed LoRaWan packet forwarder for Advantech Card with Semtech Chip.
 All Settings will be done within the Rollout-Engine inside the Rollout Container.
 
