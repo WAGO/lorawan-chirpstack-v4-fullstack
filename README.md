@@ -52,7 +52,7 @@ services:
       - GATEWAY_ID=AA555A0000240xxx
     restart: "no"
 ```
-After Login in to th UI simple add a Gateway with your ID.
+After Login in to the UI simple add a Gateway with your ID.
 <br>
 <p align="center" style="margin:0;">
 <img src="images/ChirpStack.jpg"
