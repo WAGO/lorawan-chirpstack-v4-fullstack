@@ -38,7 +38,7 @@ You also will find preinstalled sensor devices inside.<br>
 - Paste the code inside the editor window of the stack
 - Deploy the stack via "Deploy" button
 <br>
-```bash
+```yaml
 version: "3.8"
 
 services:
