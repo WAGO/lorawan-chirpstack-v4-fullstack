@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="images/LoRaWan Stack.jpeg"
+<img src="images/LoRaWan Stack.jpg"
      alt="LoRaWan"
      title="LoRaWan"/>
 </p>
