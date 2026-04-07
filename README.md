@@ -11,7 +11,7 @@
 This Container setup the whole Chirpstack with the needed LoRaWan packet forwarder for Advantech Card with Semtech Chip.
 All Settings will be done within the Rollout-Engine inside the Rollout Container.
 
-## Take care => please choose a uniqe station id in the docker start command by youself
+## Take care => please choose a uniqe gateway id in the docker start command by youself
 
 ### Seeting UP the stack via SSH
 
