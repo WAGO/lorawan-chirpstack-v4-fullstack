@@ -87,6 +87,9 @@ services:
 
 After logging into the UI, simply add your **Gateway** using your configured Gateway ID.
 
+<p align="center">
+  <img src="images/ChirpStack.jpg" alt="ChirpStack" title="ChirpStack"/>
+</p>
 ---
 
 ## 💡 Notes
