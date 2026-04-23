@@ -102,20 +102,13 @@ After logging into the UI, simply add your **Gateway** using your configured Gat
 ---
 ### 📺 Additional Videos
 
-Here are three additional videos that can be embedded or promoted within the documentation, README, or presentation:
+Here are three additional videos that can be shared or promoted within the documentation, README, or presentation:
 
-#### Video 1
+* https://youtu.be/At08eCmNLZw
+* https://youtu.be/VUWzVoKlfFM
+* https://youtu.be/lJ9ulT4gQ8M
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/At08eCmNLZw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+These videos can provide further context, demonstrations, or insights.
 
-#### Video 2
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VUWzVoKlfFM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
-#### Video 3
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ9ulT4gQ8M" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
-These videos can help provide additional context, demonstrations, or insights for users.
 
 
