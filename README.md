@@ -16,7 +16,7 @@ All configuration steps are handled automatically by the **Rollout Engine** insi
 
 * WAGO Edge Computer 752-94xx
 * Advantech LoRa Gateway Mini-PCIe Card (WISE-R311)
-  → WAGO order number: `xxx-xxx`
+  → WAGO order number: `8007-0100/1000-0514`
 * Basic LoRaWAN knowledge
 * Latest WAGO OS installed
   → https://downloadcenter.wago.com/wago/software/details/mfgikzq7c3ra4l9ejo
