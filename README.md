@@ -15,7 +15,7 @@ All configuration steps are handled automatically by the **Rollout Engine** insi
 ## ⚙️ Prerequisites
 
 * WAGO Edge Computer 752-94xx
-* Advantech LoRa Gateway Mini-PCIe Card (WISE-R311)
+* LoRa Gateway Mini-PCIe Card (WISE-R311) with Antenna set
   → WAGO order number: `8007-0100/1000-0514`
 * Basic LoRaWAN knowledge
 * Latest WAGO OS installed
